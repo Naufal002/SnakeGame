@@ -13,5 +13,6 @@ def atribut(dis):
     
     pygame.quit()
     quit()
-
+    
+#Call Funtion
 display()
